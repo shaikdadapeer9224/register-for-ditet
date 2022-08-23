@@ -1,0 +1,17 @@
+h1{
+  text-transform: #full-width,capitalize;
+  color: white;
+  text-indent: 200px;
+  border: 2px solid;
+  border-radius: 2px;
+  border-color: rgba(255, 0, 0, 0.5);
+background-color: green;
+
+}
+*{
+  background-color:  #ccffff;
+  text-align: center;
+}
+button{
+  color: #ff4d4d;
+}
